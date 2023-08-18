@@ -2,6 +2,8 @@
 
 Hi, I am Ashley Van't Hoogerhuijs and I work as a Junior Full-Stack Developer in London
 
+<a href="https://www.buymeacoffee.com/ashleyjaneS" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 <!--
 **ashleyjanevth/ashleyjanevth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
