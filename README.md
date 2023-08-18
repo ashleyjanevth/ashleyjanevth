@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFB985&width=435&lines=Welcome+to+Ashley's+Github+Profile)](https://git.io/typing-svg)
+
 Hi, I am Ashley Van't Hoogerhuijs and I work as a Junior Full-Stack Developer in London
 
 <!--
